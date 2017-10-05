@@ -8,7 +8,7 @@ espacios hacia la derecha.
 
 ------------------------- 
 
-**[Diagrama de Flujo](https://github.com/J0ssy/caesar-cipher.git/diagrama-flujo-caesar-cipher.png)**    
+**[Diagrama de Flujo](https://github.com/J0ssy/caesar-cipher/blob/master/diagrama-flujo-caesar-cipher.png)**    
 
 ------------------------- 
 
